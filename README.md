@@ -1,2 +1,2 @@
 # ajv-tookit
-startkit of ajv
+startkit for ajv
